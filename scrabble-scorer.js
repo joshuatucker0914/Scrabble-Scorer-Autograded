@@ -126,7 +126,7 @@ function transform(whatsTransformed) {
   
   return newPointStructure;
 };
-
+//
 let newPointStructure = transform(oldPointStructure);
 
 function runProgram() {
